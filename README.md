@@ -5,7 +5,7 @@
     2. Give future customers the potential use case of duolingo
     3. Expand to untapped international markets
 
- ![alt-text](https://imgur.com/11Hu6ny)
+ ![alt-text](https://i.imgur.com/11Hu6ny.png)
 
 ## Technologies
 -Javascript
@@ -23,7 +23,7 @@ This project utilizes Annyang to allow users to control certain functionalities 
 
 Along with the implementation of websockets, we were able to include a live video chat functionality. This would give users a real time experience versus the pre-recorded alterior option.
 
-![alt-text](https://imgur.com/5VTz75Y)
+![alt-text](https://i.imgur.com/5VTz75Y.png)
 
 ## Future Features 
 
