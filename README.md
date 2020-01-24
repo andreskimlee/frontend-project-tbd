@@ -1,21 +1,21 @@
 # Outernets-Project 
     This Application was made as a mock task by Outernets. In order to produce the most authentic scenarios, I began by picking a mock company which in this case was DuoLingo. The project is focused on an interactive ad experience and allows users to speak to individuals around the world. In my use case scenario, the applications would exist in high traffic areas around the globe using a display with a camera and microphone. Users would then be given options to choose from different countries and use duolingo to practice speaking the chosen countrie's language and converse with strangers from the chosen country. I believe this ad would help achieve three potential things for duolingo. 
 
-    1. The ability to exercise their brand name on a broader level
-    2. Give future customers the potential use case of duolingo
-    3. Expand to untapped international markets
+    The ability to exercise their brand name on a broader level
+    Give future customers the potential use case of duolingo
+    Expand to untapped international markets
 
  ![alt-text](https://i.imgur.com/11Hu6ny.png)
 
 ## Technologies
--Javascript
--React
--jQuery/Json/Jbuilder 
--CSS
--Socket.io
--Annyang 
--express
--simple-peer
+1.Javascript
+2. React
+3. jQuery/Json/Jbuilder 
+4. CSS
+5. Socket.io
+6. Annyang 
+7. express
+8. simple-peer
 
 ## Features 
 
